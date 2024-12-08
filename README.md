@@ -1,17 +1,6 @@
 # Modern cuneiform
 What would cuneiform look like if it were still used today? Experiments in cuneiform typography, made with Blender and Inkscape.
 
-## Supermarket (2021)
-
-![Supermarket](/Supermarket1.png)
-
-**Language:** Akkadian (the Old Babylonian dialect)  
-**Script:** Neo-Assyrian cuneiform  
-**Text:**  
-- _House of purchasing_ (orange)
-- _3 for the silver of 2_ (pink)
-- _Whatever its name, we have it_ (neon)
-
 ## Graffiti (2024)
 
 ![Graffiti](/Graffiti1.png)
@@ -22,3 +11,14 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 - _“I am one who has no mother”_ (on the wall; quotation from Gudea Cylinder A 3:6)
 - _Love_ (orange graffiti)
 - _No writing!_ (sign)
+
+## Supermarket (2021)
+
+![Supermarket](/Supermarket1.png)
+
+**Language:** Akkadian (the Old Babylonian dialect)  
+**Script:** Neo-Assyrian cuneiform  
+**Text:**  
+- _House of purchasing_ (orange)
+- _3 for the silver of 2_ (pink)
+- _Whatever its name, we have it_ (neon)
