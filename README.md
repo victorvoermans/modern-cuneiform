@@ -8,9 +8,9 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 **Language:** Sumerian  
 **Script:** Old Sumerian cuneiform  
 **Text:**  
-- _“I am one who has no mother”_ (blue; quotation from Gudea Cylinder A 3:6)
-- _Love_ (orange)
-- _No writing!_ (sign)
+- _“I am one who has no mother”_ (blue; quotation from Gudea Cylinder A 3:6) ([closeup](/Graffiti_blue.png))
+- _Love_ (orange) ([closeup](/Graffiti_orange.png))
+- _No writing!_ (sign) ([closeup](/Graffiti_sign.png))
 
 ## Supermarket (2021)
 
@@ -20,5 +20,5 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 **Script:** Neo-Assyrian cuneiform  
 **Text:**  
 - _House of purchasing_ (orange)
-- _3 for the silver of 2_ (pink)
-- _Whatever its name, we have it_ (neon)
+- _3 for the silver of 2_ (pink) ([closeup](/Supermarket_pink.png))
+- _Whatever its name, we have it_ (neon) ([closeup](/Supermarket_neon.png))
