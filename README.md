@@ -8,9 +8,9 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 **Language:** Akkadian (the Old Babylonian dialect)  
 **Script:** Neo-Assyrian cuneiform  
 **Text:**  
-- House of purchasing (orange)
-- 3 for the silver of 2 (pink)
-- Whatever its name, we have it (neon)
+- _House of purchasing_ (orange)
+- _3 for the silver of 2_ (pink)
+- _Whatever its name, we have it_ (neon)
 
 ## Graffiti (2024)
 
@@ -19,6 +19,6 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 **Language:** Sumerian  
 **Script:** Old Sumerian cuneiform  
 **Text:**  
-- "I am one who has no mother" (on the wall; quotation from Gudea Cylinder A 3:6)
-- Love (orange graffiti)
-- No writing! (sign)
+- _“I am one who has no mother”_ (on the wall; quotation from Gudea Cylinder A 3:6)
+- _Love_ (orange graffiti)
+- _No writing!_ (sign)
