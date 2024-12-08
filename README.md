@@ -3,7 +3,7 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 
 ## Graffiti (2024)
 
-![Graffiti](/Graffiti1.png)
+![Graffiti](/Graffiti.png)
 
 **Language:** Sumerian  
 **Script:** Old Sumerian cuneiform  
@@ -14,7 +14,7 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 
 ## Supermarket (2021)
 
-![Supermarket](/Supermarket1.png)
+![Supermarket](/Supermarket.png)
 
 **Language:** Akkadian (the Old Babylonian dialect)  
 **Script:** Neo-Assyrian cuneiform  
