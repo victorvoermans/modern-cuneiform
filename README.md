@@ -8,8 +8,8 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 **Language:** Sumerian  
 **Script:** Old Sumerian cuneiform  
 **Text:**  
-- _“I am one who has no mother”_ (on the wall; quotation from Gudea Cylinder A 3:6)
-- _Love_ (orange graffiti)
+- _“I am one who has no mother”_ (blue; quotation from Gudea Cylinder A 3:6)
+- _Love_ (orange)
 - _No writing!_ (sign)
 
 ## Supermarket (2021)
