@@ -3,22 +3,22 @@ What would cuneiform look like if it were still used today? Experiments in cunei
 
 ## Graffiti (2024)
 
-![Graffiti](/Graffiti.png)
+![Graffiti](/Graffiti/Graffiti.png)
 
 **Language:** Sumerian  
 **Script:** Old Sumerian cuneiform  
 **Text:**  
-- _“I am one who has no mother”_ (blue; quotation from Gudea Cylinder A 3:6) ([closeup](/Graffiti_blue.png))
-- _Love_ (orange) ([closeup](/Graffiti_orange.png))
-- _No writing!_ (sign) ([closeup](/Graffiti_sign.png))
+- Blue: “I am one who has no mother” (quotation from Gudea Cylinder A 3:6) ([closeup](/Graffiti/Graffiti_blue.png))
+- Orange: “Love” ([closeup](/Graffiti/Graffiti_orange.png))
+- Sign: “No writing!” ([closeup](/Graffiti/Graffiti_sign.png))
 
 ## Supermarket (2021)
 
-![Supermarket](/Supermarket.png)
+![Supermarket](/Supermarket/Supermarket.png)
 
 **Language:** Akkadian (the Old Babylonian dialect)  
 **Script:** Neo-Assyrian cuneiform  
 **Text:**  
-- _House of purchasing_ (orange)
-- _3 for the silver of 2_ (pink) ([closeup](/Supermarket_pink.png))
-- _Whatever its name, we have it_ (neon) ([closeup](/Supermarket_neon.png))
+- Orange: “House of purchasing”
+- Pink: “3 for the silver of 2” ([closeup](/Supermarket/Supermarket_pink.png))
+- Neon: “Whatever its name, we have it” ([closeup](/Supermarket/Supermarket_neon.png))
